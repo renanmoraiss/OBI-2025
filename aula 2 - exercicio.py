@@ -1,4 +1,4 @@
-nome = "renan morais dev"
+nome = "renan morais"
 email = "emailfalsodorenan@gmail.com"
 
 # 1. Descubra o servidor do email:
