@@ -1,0 +1,8 @@
+Aula 0 -> Introdução
+Aula 1 -> Variáveis e Operações
+Aula 2 -> Textos, Strings e Exercícios
+Aula 3 -> Inputs e Listas
+Aula 4 -> 
+Aula 5 -> Dicionários
+Aula 6 -> For e estruturas de repetição
+Aula 7 -> Funções e Parâmetros
